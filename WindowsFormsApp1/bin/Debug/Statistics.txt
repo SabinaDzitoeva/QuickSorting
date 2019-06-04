@@ -1,0 +1,4 @@
+673	2184 ticks
+948	821 ticks
+603	741 ticks
+9	16 ticks
